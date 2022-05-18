@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/hotakfaisal"><img src="https://api.daily.dev/devcards/2cf55477c66a4fc6af9cba5ffdec5420.png?r=zau" width="400" alt="Faisal Hotak's Dev Card"/></a>
+<a href="https://app.daily.dev/hotakfaisal"><img src="https://api.daily.dev/devcards/2cf55477c66a4fc6af9cba5ffdec5420.png?r=sce" width="400" alt="Faisal Hotak's Dev Card"/></a>
 
 <!--
 **faisalhotak/faisalhotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
