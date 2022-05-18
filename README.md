@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, I am Faisal Hotak
 
 <div align="left">
   <a href="https://twitter.com/FaisalHotak_">
@@ -22,8 +22,6 @@
     />
   </a>
 </div>
-
-## My name is Faisal Hotak
 
 - Software Engineering Student in Belgium ! <img src="https://user-images.githubusercontent.com/55158944/169016425-32ee042d-fd5c-4b87-8454-116ceb7ce45d.png" alt="BelgianFlag" width="20"/>
 
