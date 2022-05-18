@@ -28,4 +28,4 @@
 - Software Engineering Student in Belgium ! <img src="https://user-images.githubusercontent.com/55158944/169016425-32ee042d-fd5c-4b87-8454-116ceb7ce45d.png" alt="BelgianFlag" width="20"/>
 
 ![Metrics](/github-metrics.svg)
-![Most used languages](https://raw.githubusercontent.com/faisalhotak/faisalhotak/github-metrics/language.svg)
+![Most used languages](/language.svg)
