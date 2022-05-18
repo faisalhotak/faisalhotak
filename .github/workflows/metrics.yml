@@ -32,5 +32,6 @@ jobs:
 
           # Language plugin
           plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage
         
