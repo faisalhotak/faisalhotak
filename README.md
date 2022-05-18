@@ -1,4 +1,4 @@
-## Hi there 👋, I am Faisal Hotak
+## Hi there 👋 I am Faisal Hotak
 
 <div align="left">
   <a href="https://twitter.com/FaisalHotak_">
