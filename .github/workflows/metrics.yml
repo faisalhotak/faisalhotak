@@ -21,7 +21,7 @@ jobs:
   language:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.23
+      - uses: lowlighter/metrics@v3.33
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
